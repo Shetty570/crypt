@@ -32,6 +32,8 @@ const Welcome = () => {
             <div className={`rounded-tl-2xl ${commonStyles}`}>Reliability</div>
             <div className={commonStyles}>Security</div>
             <div className={`rounded-tr-2xl ${commonStyles}`}>Ethereum</div>
+            <div className={`rounded-tr-2xl ${commonStyles}`}>Ethereum</div>
+            
           </div>
         </div>
       </div>
