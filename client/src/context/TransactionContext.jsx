@@ -17,7 +17,7 @@ const getEthereumContract = () => {
 
   console.log({
     provider,
-    signer,
+    signer, //sdfvhsfgihuspeiurhfg
     transactionContract,
   });
 };
