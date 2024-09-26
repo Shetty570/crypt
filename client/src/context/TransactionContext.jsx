@@ -17,7 +17,7 @@ const getEthereumContract = () => {
 
   console.log({
     provider,
-    signer, //sdfvhsfgihuspeiurhfg
+    signer,
     transactionContract,
   });
 };
@@ -62,3 +62,4 @@ export const TransactionsProvider = ({ children }) => {
     </TransactionContext.Provider>
   );
 };
+// sfgnuicwgergvoiuwergnvwoeurfgwuiervnowevrgungnvwerigtu
